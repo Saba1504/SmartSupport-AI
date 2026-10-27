@@ -1,0 +1,9 @@
+ticket_id,customer_message,expected_category,expected_priority
+EVAL-001,"My package is late and tracking has not updated.",Shipping,Medium
+EVAL-002,"I was charged twice and this is urgent.",Billing,High
+EVAL-003,"I cannot log in after resetting my password.",Account access,High
+EVAL-004,"I would like a refund for my recent order.",Refunds,Low
+EVAL-005,"The app crashes when I open settings.",Technical issue,Medium
+EVAL-006,"Thank you for the quick help.",General inquiry,Low
+EVAL-007,"I suspect fraud and someone may have accessed my account.",Account access,High
+EVAL-008,"Can I get a copy of my invoice?",Billing,Low
